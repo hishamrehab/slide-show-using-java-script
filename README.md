@@ -1,1 +1,10 @@
-# slide-show-using-java-script
+# slideshow
+
+
+## Todo:
+
+# HTML :
+
+-Create Image Tag
+
+# js
